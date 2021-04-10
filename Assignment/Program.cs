@@ -32,7 +32,7 @@ namespace Assignment
                     obj.Display();
                     break;
                 case 4:
-                    Console.WriteLine(obj.GetMangerName(getidinput()));
+                    Console.WriteLine("Direct reporting Manager is:"+obj.GetMangerName(getidinput()));
                     break;
                 case 5:
                     obj.GetMembers(getidinput());
