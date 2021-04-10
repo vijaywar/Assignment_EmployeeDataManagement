@@ -34,4 +34,4 @@ All employees list directly or indirectly reporting to a manager
 
 Thank you!
 
-<span style="float:right;">--Vijaykanth Reddy</span>
+<div style="float:right;">Vijaykanth Reddy</div>
