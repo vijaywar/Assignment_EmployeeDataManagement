@@ -31,8 +31,8 @@ namespace Assignment.utility
         static public String Invlidpath = "Error in file opening check the path and read write access.............\n\n\n\n Exit program and check the file path and run again!\n\n.";
         static public String NoManger = "null";
         static public String NoEmpRecord = "Sorry Employee Doesn't Exists please check the id!";
-        static public String DataDuplicate = "Data Duplicated of employee ..... ";
+        static public String DataDuplicate = "Data Duplicated of employee error handled and only one copy of data is loaded to database ..... ";
 
-        static public String DataDisplayHead = "Employee ID | Employee Name | Manager ID  \n";
+        static public String DataDisplayHead = "Employee ID | Employee Name | Manager ID ";
     }
 }
